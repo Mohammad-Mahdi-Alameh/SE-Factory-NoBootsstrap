@@ -59,7 +59,7 @@ img {
 .row {
     display: flex;
     justify-content: space-between;
-    width: 80%;
+    width: 90%;
     align-items: center;
     margin: auto;
     flex-wrap: wrap;
@@ -191,6 +191,7 @@ strong {
 .item{
     flex-basis: 25%;
     padding:2%;
+    
 }
 
 /* Footer */
@@ -223,5 +224,10 @@ footer {
     margin-right: 15%;
     
     text-align: center;
+}
+.sp{
+    
+    font-size:35px;
+     text-align: center;
 }
 
